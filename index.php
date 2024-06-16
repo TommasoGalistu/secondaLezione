@@ -33,6 +33,8 @@
 
   // echo $utente["nome"];
 
+  echo "";
+
   $arrayMultidimensionali = [
     [
       "nome" => "Mario",
