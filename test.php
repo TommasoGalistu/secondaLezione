@@ -15,7 +15,8 @@ include('./componets/navbar.php')
 </head>
 
 <body>
-  <?php navbar("navbar"); ?>
+  <?php navbar("navbar test"); ?>
+
   questa è la test page
 </body>
 
